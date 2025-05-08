@@ -80,14 +80,14 @@ If you use AQiPT for your work or research, please consider citing it.Citation i
 
 AQiPT was developed as part of the doctoral thesis, so you can also cite as:
 
-> Morgado, M. (2024). *Atomic Quantum Information Processing Toolbox (AQiPT): A Modular Framework for Quantum Device Control*. Université de Strasbourg. [https://theses.hal.science/tel-04815996](https://theses.hal.science/tel-04815996)
+> Morgado, M. (2024). *Full-stack control system for ultracold Rydberg atom quantum computers and simulators*. Université de Strasbourg. [https://theses.hal.science/tel-04815996](https://theses.hal.science/tel-04815996)
 
 A BibTeX entry for citation:
 
 ```bibtex
 @phdthesis{morgado2024aqipt,
   author       = {Morgado, Manuel},
-  title        = {Atomic Quantum Information Processing Toolbox (AQiPT): A Modular Framework for Quantum Device Control},
+  title        = {Full-stack control system for ultracold Rydberg atom quantum computers and simulators.},
   school       = {Université de Strasbourg},
   year         = {2024},
   type         = {Ph.D. Thesis},
